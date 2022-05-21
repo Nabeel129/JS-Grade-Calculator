@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Lobster&family=Secular+One&display=swap');
+
+.center-align {
+    transform: translate(0, 35vh);
+}
+
+.bg-grey {
+    background-color: darkslategrey;
+}
+
+.font-color {
+    color: rgb(30, 197, 141);
+}
+
+.border-left {
+    border-left: 4px solid rgb(30, 197, 141);
+}
+
+.margin-left {
+    margin-left: 2px;
+}
+
+button {
+    background-color: transparent;
+    border: none;
+}
+
+button:hover {
+    color: aliceblue;
+}
